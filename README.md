@@ -1,4 +1,3 @@
-# Various
 PortFolio
 =======
 Valentin Besson 2017
@@ -47,7 +46,7 @@ This is a completely GPU process that does not interfer with CPU gameplay and ph
 However, if another feature would use the Zdepth pass for whatever reason, the shader should contain a supplementary pass to render the Zdepth without any vertex offset.
 I'd like to insert this feature in the standard Unity Shader eventually.
 
-![gif] (![gif] (https://media.giphy.com/media/3oKIPA3EXcVlCGeHO8/giphy.gif)
+![gif] (https://media.giphy.com/media/3oKIPA3EXcVlCGeHO8/giphy.gif)
 
 
 
